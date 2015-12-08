@@ -1,0 +1,20 @@
+Python 3.4 32 bit
+Other versions of Python 3 may work but have not been tested
+
+#####################################################################
+
+name: PyCrypto
+
+description: Cryptographic modules for Python
+
+url: https://www.dlitz.net/software/pycrypto/
+
+install:
+    "pip install pycrypto" should work for linux distributions
+
+    if you are having trouble installing on a windows machines, try
+    these windows installers:
+
+    https://github.com/axper/python3-pycrypto-windows-installer
+
+#####################################################################
